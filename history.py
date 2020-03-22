@@ -8,3 +8,14 @@ runfile('C:/Users/super_000/.spyder-py3/002_get_sourcecode.py', wdir='C:/Users/s
 %clear
 runfile('C:/Users/super_000/.spyder-py3/002_get_sourcecode.py', wdir='C:/Users/super_000/.spyder-py3')
 runfile('C:/Users/super_000/.spyder-py3/003_get_robot_info.py', wdir='C:/Users/super_000/.spyder-py3')
+%clear
+runfile('C:/Users/super_000/.spyder-py3/004_beatifulSoap_Instance.py', wdir='C:/Users/super_000/.spyder-py3')
+runfile('C:/Users/super_000/.spyder-py3/005_seoul_metro_parser.py', wdir='C:/Users/super_000/.spyder-py3')
+%clear
+runfile('C:/Users/super_000/.spyder-py3/005_seoul_metro_parser.py', wdir='C:/Users/super_000/.spyder-py3')
+%clear
+runfile('C:/Users/super_000/.spyder-py3/005_seoul_metro_parser.py', wdir='C:/Users/super_000/.spyder-py3')
+%clear
+runfile('C:/Users/super_000/.spyder-py3/005_seoul_metro_parser.py', wdir='C:/Users/super_000/.spyder-py3')
+%clear
+runfile('C:/Users/super_000/.spyder-py3/005_seoul_metro_parser.py', wdir='C:/Users/super_000/.spyder-py3')
